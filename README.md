@@ -1,5 +1,6 @@
 # A Unified Online-Offline Framework for Co-Branding Campaign Recommendations
 [![DOI](https://zenodo.org/badge/737247284.svg)](https://zenodo.org/doi/10.5281/zenodo.15532549)
+
 This repository hosts the source code and datasets for the paper "A Unified Online-Offline Framework for Co-Branding Campaign Recommendations". 
 
 <p align="center">
